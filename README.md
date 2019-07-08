@@ -11,3 +11,6 @@ Contains graphs used in the exploration of variance in the median income for eac
 
 ### Project_1_Population.ipynb
 Contains graphs showing the changes in population in Illinois and changes by county.
+
+### Project_Couple_Trends.ipynb
+Contains graphs showing the number of marriages and divorces in Illinois and by county over the past 20 years.
